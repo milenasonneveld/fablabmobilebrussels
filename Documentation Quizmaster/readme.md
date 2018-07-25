@@ -15,3 +15,4 @@ Tools
 * Un accès à une découpe laser (dans un fablab)
 
 [https://github.com/milenasonneveld/fablabmobilebrussels/blob/master/Documentation%20Quizmaster/pistoletacolle.jpg]
+[https://raw.githubusercontent.com/milenasonneveld/fablabmobilebrussels/master/Documentation%20Quizmaster/pistoletacolle.jpg]
